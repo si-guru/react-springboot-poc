@@ -1,3 +1,4 @@
+commitFile.txt
 HELP.md
 /target/
 !.mvn/wrapper/maven-wrapper.jar
@@ -27,3 +28,6 @@ HELP.md
 
 ### VS Code ###
 .vscode/
+
+### Node Modules ###
+*/node_modules/
